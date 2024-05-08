@@ -15,7 +15,7 @@ public class beanDB {
 		public void conectarBD() throws SQLException, InstantiationException, IllegalAccessException, ClassNotFoundException
 		{
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			cn=DriverManager.getConnection("jdbc:mysql://34.125.248.222/themn","root","Altair123$%");
+			cn=DriverManager.getConnection("jdbc:mysql://Server","user","Password");
 		}
 
 
