@@ -4,7 +4,7 @@ Documentación del Proyecto
 Introducción
 Este documento proporciona una descripción detallada del proyecto "Venta de Plantillas de Páginas Web" desarrollado como proyecto final para la asignatura de sistemas. La plataforma desarrollada consiste en una página web profesional para la venta de plantillas de páginas web, utilizando tecnologías como HTML, CSS, JavaScript y Java.
 
-Objetivo
+<h1>Objetivo</h1>
 El objetivo principal de este proyecto es crear una plataforma de comercio electrónico que permita a los usuarios comprar plantillas de páginas web de forma fácil y segura. Además, se busca proporcionar al administrador del sistema las herramientas necesarias para gestionar los productos y los pedidos de los usuarios.
 
 Tecnologías Utilizadas
